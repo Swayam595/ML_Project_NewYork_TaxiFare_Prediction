@@ -29,7 +29,7 @@ Other details:
     Light GBM :  3.840
 7) Please get your own google api key to work with bokeh plots, key might expire soon
 8) Haversine distance derived distance in Miles (as units of measure)
-9) Overall take-away : Light GBM is fast, efficient;
-                       Random forest will work well if we increase depth(parameter tuning is important) 
-                       Keras works well as we add-in more features (believe me feature Engineering will awe-inspire you, at
-                       the same will let you explore whole new dimensions. Ofcoz with lot of after math. ) 
+9) Overall take-away :
+  - Light GBM is fast, efficient;
+  - Random forest will work well if we increase depth(parameter tuning is important) 
+  - Keras works well as we add-in more features (believe me feature Engineering will awe-inspire you, at the same will let you explore whole new dimensions. Ofcoz with lot of after math. ) 
