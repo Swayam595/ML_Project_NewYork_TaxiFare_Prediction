@@ -7,7 +7,7 @@ Instructions :
 
 Other details:
 1) Used Keras regressor and light GBM 
-2) used Bokeh to plot co-ordinates on goolge maps
+2) used Bokeh to plot co-ordinates on goolge maps (conventional maps are also available, available in images folder)
 3) libraries used 
   - numpy 
   - pandas 
